@@ -1,0 +1,19 @@
+# Ignorar archivos de imágenes
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.ico
+*.svg
+*.webp
+
+# Ignorar archivos pickle y sus variantes
+*.pickle
+*.pkl
+
+# Ignorar archivos HDF5 y sus variantes
+*.h5
+*.hdf5
